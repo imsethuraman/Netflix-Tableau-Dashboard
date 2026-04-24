@@ -1,6 +1,11 @@
 # Netflix-Tableau-Dashboard
 This repository provides a comprehensive Tableau dashboard for analyzing Netflix data. It offers interactive visualizations and insights into the Netflix content library, viewer behavior, and performance metrics.
 
+# Dashboard Preview
+
+<img width="1831" height="959" alt="Netflix" src="https://github.com/user-attachments/assets/ecd52947-754e-4eca-9750-e76979c7120e" />
+
+
 Key Features:
 
 Interactive Tableau dashboard for exploring Netflix data.
